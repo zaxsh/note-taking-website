@@ -1,17 +1,13 @@
 # Note Taker
 
-A simple note-taking website with no backend — notes are stored in your browser's `localStorage`, so they persist across visits on the same device.
+**A note-taking website — download it, open the folder, that's it.**
 
-## Features
-- Create, edit, and delete notes
-- Title and body for each note
-- Responsive UI
+Notes are stored in the browser's `localStorage`, so they persist on this device. No server, no flags.
 
-## How to run
-1. Push this repository to GitHub (or clone it locally).
-2. Open the root `index.html` in a web browser, or serve the folder locally with any static server (e.g. `npx serve .`).
+## Run it
+Just open `index.html` in any web browser — that's the whole run.
 
-## Project structure
-- `index.html` — page markup
+## Files
+- `index.html` — page markup (open this one to start)
 - `style.css` — styles
-- `app.js` — note management logic and `localStorage` persistence
+- `app.js` — note logic and `local a comment here`
